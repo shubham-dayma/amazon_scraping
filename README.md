@@ -1,4 +1,6 @@
-# Add any amazon storefront URL along with zipcode and script will scrap all product information and store in MYSQL database
+# Amazon Product Scraping
 
-# Technology used : Selenium, MYSQL, Python
+Add any amazon storefront URL along with zipcode and script will scrap all product information and store in MYSQL database
+
+Technology used : Selenium, MYSQL, Python
  
